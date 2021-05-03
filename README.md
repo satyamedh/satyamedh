@@ -6,3 +6,5 @@
 - 📫 How to reach me: footer on https://www.satyamedh.ml
 - ⚡ Fun fact: I'm under 18 :P
 -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamedh&show_icons=true&theme=highcontrast)
