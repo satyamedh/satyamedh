@@ -7,7 +7,6 @@
 - ⚡ Fun fact: I'm quite bored
 -->
 
-btw, I made a nice little unity game, it's not here, but it's over [here](http://satyamedh.ml:800/satyamedh/nothingness)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamedh&show_icons=true&theme=highcontrast)
 
