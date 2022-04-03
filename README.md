@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm satyamedh!
 
-- 🔭 I’m currently working on a currently closed-source tensorflow based minecraft AI(to beat the game)
+- 🔭 I’m currently working on fixing my brain
 - 🌱 I’m currently learning tensorflow and keras, to be used for Deep-Q learning
 - 💬 Ask me about anything I know :D
-- 📫 How to reach me: `satyamedh9@gmail.com` or discord `! Satyamedh#2579`
-- ⚡ Fun fact: I'm quite bored
+- 📫 How to reach me: `satyamedh9@gmail.com` or discord `Satyamedh#3539`
+- ⚡ Fun fact: I'm nonexistent
 -->
 
 
