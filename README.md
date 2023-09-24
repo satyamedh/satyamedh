@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm satyamedh!
 
 - 🔭 I’m currently working on fixing my brain
-- 🌱 I’m currently learning Electronics & PCB Design(I'll open source it eventually)
+- 🌱 I’m currently learning Electronics & PCB Design
 - 💬 Ask me about anything I know :D
-- 📫 How to reach me: `satyamedh9@gmail.com` or discord `satyamedh`
-- ⚡ Fun fact: 10th grade sucsk
+- 📫 How to reach me: `satyamedh9@gmail.com` or `satyamedh` on discord
+- ⚡ Fun fact: I'm building [https://satyamedh.me](https://satyamedh.me)! (SSL *might* be broken)
 -->
 
 
